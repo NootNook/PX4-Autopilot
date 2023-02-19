@@ -101,6 +101,7 @@ if(gazebo_FOUND)
 		typhoon_h480
 		uuv_bluerov2_heavy
 		uuv_hippocampus
+		my_drone
 	)
 
 	set(worlds
@@ -113,6 +114,7 @@ if(gazebo_FOUND)
 		warehouse
 		windy
 		yosemite
+		my_world
 	)
 
 	# find corresponding airframes
