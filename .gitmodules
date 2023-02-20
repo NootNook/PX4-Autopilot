@@ -12,7 +12,7 @@
 	branch = main
 [submodule "Tools/simulation/gazebo-classic/sitl_gazebo-classic"]
 	path = Tools/simulation/gazebo-classic/sitl_gazebo-classic
-	url = git@github.com:NootNook/PX4-SITL_gazebo-classic.git
+	url = git@github.com:RETINA-UAV/PX4-SITL_gazebo-classic.git
 	branch = sky-eye
 [submodule "src/drivers/gps/devices"]
 	path = src/drivers/gps/devices
