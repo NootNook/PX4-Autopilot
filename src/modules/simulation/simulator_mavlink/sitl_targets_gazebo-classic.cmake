@@ -75,7 +75,6 @@ if(gazebo_FOUND)
 		iris_dual_gps
 		my_iris_camera
 		my_iris_camera_lidar
-		my_iris_camera_velodyne
 	)
 
 	set(worlds
