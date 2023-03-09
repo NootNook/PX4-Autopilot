@@ -81,6 +81,7 @@ px4_add_romfs_files(
 	10016_gazebo-classic_iris
 	11234_gazebo-classic_my_iris_camera
 	11235_gazebo-classic_my_iris_camera_lidar
+	11236_gazebo-classic_my_iris_camera_velodyne
 
 	10017_jmavsim_iris
 	10018_gazebo-classic_iris_foggy_lidar
